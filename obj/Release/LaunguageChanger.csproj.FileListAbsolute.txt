@@ -1,0 +1,9 @@
+C:\Users\tonyg\Desktop\NewAge_CDAGaming\Externals\LanguageChanger\bin\Release\Launguage Changer.exe.config
+C:\Users\tonyg\Desktop\NewAge_CDAGaming\Externals\LanguageChanger\bin\Release\Launguage Changer.exe
+C:\Users\tonyg\Desktop\NewAge_CDAGaming\Externals\LanguageChanger\bin\Release\Launguage Changer.pdb
+C:\Users\tonyg\Desktop\NewAge_CDAGaming\Externals\LanguageChanger\obj\Release\LaunguageChanger.csprojResolveAssemblyReference.cache
+C:\Users\tonyg\Desktop\NewAge_CDAGaming\Externals\LanguageChanger\obj\Release\LaunguageChanger.TitleForm.resources
+C:\Users\tonyg\Desktop\NewAge_CDAGaming\Externals\LanguageChanger\obj\Release\LaunguageChanger.Properties.Resources.resources
+C:\Users\tonyg\Desktop\NewAge_CDAGaming\Externals\LanguageChanger\obj\Release\LaunguageChanger.csproj.GenerateResource.Cache
+C:\Users\tonyg\Desktop\NewAge_CDAGaming\Externals\LanguageChanger\obj\Release\Launguage Changer.exe
+C:\Users\tonyg\Desktop\NewAge_CDAGaming\Externals\LanguageChanger\obj\Release\Launguage Changer.pdb
